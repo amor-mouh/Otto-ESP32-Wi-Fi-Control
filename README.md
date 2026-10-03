@@ -37,7 +37,7 @@ An upgraded, open-source version of the famous **Otto DIY Robot**. This project 
 Refer to the schematics in the `docs/` folder for exact pin configurations between the ESP32, servos, and ultrasonic sensor.
 
 ### 2. Uploading Firmware
-1. Open the code in `firmware/` using **Arduino IDE**.
+1. Open the code in `Otto_robot_esp32_code` using **Arduino IDE**.
 2. Install the ESP32 board manager and required libraries.
 3. Select your ESP32 board and upload the sketch.
 
