@@ -1,4 +1,14 @@
 # 🤖 Otto DIY Robot - ESP32 Wi-Fi Upgrade
+---
+
+## 👤 Author & Developer
+
+**Amor Mouhibeddine**
+- 🎓 Electrotechnical Engineering Student | Embedded Systems & IoT Developer
+- 🌐 **GitHub Profile:** [@amor-mouh](https://github.com/amor-mouh)
+- 🚀 **Club:** VELTRIX Scientific Club
+
+---
 
 An upgraded, open-source version of the famous **Otto DIY Robot**. This project replaces the original Arduino Nano with an **ESP32** microcontroller, adding built-in Wi-Fi Access Point functionality and a web-based control interface.
 
