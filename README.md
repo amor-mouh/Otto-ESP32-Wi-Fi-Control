@@ -42,7 +42,7 @@ Refer to the schematics in the `docs/` folder for exact pin configurations betwe
 ---
 
 ## 📽️ Tutorials & Credits
-- **Assembly Guide:** Watch [Video Tutorial Title](LINK_TO_ASSEMBLY_VIDEO) for mechanical assembly steps.
+- **Assembly Guide:** Watch [Video Tutorial Title]([LINK_TO_ASSEMBLY_VIDEO](https://youtu.be/mAdSBA00tjY?si=oOSM3z597e1U_ZP3)) for mechanical assembly steps.
 - **ESP32 Demo & Explanation:** Watch [Our Project Overview](LINK_TO_YOUR_YOUTUBE_VIDEO) to see how the Wi-Fi upgrade works.
 - **Original Project:** Based on the open-source [Otto DIY](https://www.ottodiy.com/) project.
 
